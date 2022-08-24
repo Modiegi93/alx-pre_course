@@ -1,2 +1,1 @@
-0x01-git
-My first time working directly from Github
+0x01-git How to be up to date in git
