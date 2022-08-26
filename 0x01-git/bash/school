@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 Conflicting merge identified
+=======
+The school is open
+>>>>>>> update_script
